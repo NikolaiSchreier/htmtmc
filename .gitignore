@@ -1,0 +1,13 @@
+world/
+TombManyGraves/
+journeymap/
+crash-reports/
+logs/
+libraries/
+*.jar
+mods/
+local/
+usercache.json
+usernamecache.json
+restart
+
