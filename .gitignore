@@ -4,8 +4,6 @@ journeymap/
 crash-reports/
 logs/
 libraries/
-*.jar
-mods/
 local/
 usercache.json
 usernamecache.json
@@ -19,3 +17,5 @@ restart
 /BotaniaVars.dat
 /modlist.html
 /options.txt
+/*.jar
+/mods/ImmersiveEngineering-*-core.jar
