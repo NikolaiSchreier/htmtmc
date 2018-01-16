@@ -19,3 +19,4 @@ restart
 /options.txt
 /*.jar
 /mods/ImmersiveEngineering-*-core.jar
+/minecraftinstance.json
