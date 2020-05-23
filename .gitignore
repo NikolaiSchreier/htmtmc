@@ -20,6 +20,7 @@
 /minecraft/BotaniaVars.dat
 /minecraft/patchouli_data.json
 /minecraft/options*.txt
+/minecraft/servers.dat
 
 /minecraft/*.jar
 /minecraft/restart
@@ -27,3 +28,4 @@
 
 /natives/
 /.packignore
+
