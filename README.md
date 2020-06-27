@@ -20,6 +20,5 @@
 9. `wget https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.2.16/forge-1.14.4-28.2.16-installer.jar`
 10. `java -jar forge-1.14.4-28.2.16-installer.jar --installServer`
 11. `rm forge-1.14.4-28.2.16-installer.jar`
-12. `chmod u+x loop.sh`
-13. `touch restart`
-14. Run `loop.sh` in a screen session
+12. `touch restart`
+13. Run `loop.sh` in a screen session
