@@ -16,7 +16,7 @@
 8. `cd minecraft`
 5. `rm mods/OptiFine_1.14.4_HD_U_F5.jar`
 6. `rm mods/OptiForge-MC1.14.4-0.1.1.jar`
-7. `rm mods/minecraft/mods/moreoverlays-1.16.1.jar`
+7. `rm mods/moreoverlays-1.16.1.jar`
 9. `wget https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.2.16/forge-1.14.4-28.2.16-installer.jar`
 10. `java -jar forge-1.14.4-28.2.16-installer.jar --installServer`
 11. `rm forge-1.14.4-28.2.16-installer.jar`
