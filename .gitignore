@@ -1,10 +1,12 @@
 /minecraft/.mixin.out/
 /minecraft/backups/
 /minecraft/crash-reports/
+/minecraft/debug/
 /minecraft/local/
 /minecraft/logs/
 /minecraft/libraries/
 /minecraft/local/
+/minecraft/map exports/
 /minecraft/patchouli_books/
 /minecraft/saves/
 /minecraft/schematics/
@@ -12,7 +14,6 @@
 /minecraft/XaeroWaypoints/
 /minecraft/XaeroWorldMap/
 /minecraft/world/
-/minecraft/map exports/
 
 /minecraft/usercache.json
 /minecraft/usernamecache.json
@@ -21,10 +22,13 @@
 /minecraft/patchouli_data.json
 /minecraft/options*.txt
 /minecraft/servers.dat
+/minecraft/1.14.4.json
 
 /minecraft/*.jar
 /minecraft/restart
 /minecraft/icon.png
+
+/minecraft/forge-*-installer.jar.log
 
 /natives/
 /.packignore
