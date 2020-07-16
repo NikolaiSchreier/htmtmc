@@ -7,7 +7,7 @@ differentiateByServerAddress:true
 #INGAME SETTINGS (DO NOT EDIT!)
 minimap:true
 caveMaps:1
-caveZoom:2
+caveZoom:0
 showPlayers:true
 showHostile:true
 showMobs:true
@@ -41,12 +41,12 @@ blockColours:0
 lighting:true
 dotsScale:1.0
 compassOverWaypoints:false
-showBiome:false
+showBiome:true
 showEntityHeight:true
 showFlowers:true
-keepWaypointNames:false
+keepWaypointNames:true
 waypointsDistance:0.0
-waypointsDistanceMin:0.0
+waypointsDistanceMin:30.0
 waypointTp:tp @s
 arrowScale:1.5
 arrowColour:0
@@ -69,7 +69,7 @@ showLightLevel:false
 renderLayerIndex:1
 crossDimensionalTp:true
 mpCrossDimensionalTp:false
-showTime:0
+showTime:1
 biomeColorsVanillaMode:false
 lookingAtAngle:20
 lookingAtAngleVertical:180
@@ -82,7 +82,7 @@ waypointsMutualEdit:true
 compass:true
 caveMapsDepth:30
 hideWaypointCoordinates:false
-interface:dummy:0:0:true:false:false:false
+interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
